@@ -1,5 +1,5 @@
-# postgresql
-1. Prepare the data
+# Installing the ISARIC-COVID database in a local Postgres database
+## 1. Prepare the data
 Complete the download of the data. Decompress. You will have 11 tables
 ```
 BASE DIR
@@ -10,5 +10,6 @@ BASE DIR
 |___...
 ```
 
-2. Install Postgresql server
-Please enter [here] (https://www.postgresql.org/download/) for postgresql download and installation
+## 2. Install Postgresql server
+Please enter [here](https://www.postgresql.org/download/) for postgresql download and installation
+
